@@ -2,7 +2,7 @@ name: Dockerized Deployment to VM
 
 on:
   push:
-    branches: [ "action" ]
+    branches: [ "main" ]
 
 jobs:
   deploy:
